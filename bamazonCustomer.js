@@ -84,6 +84,7 @@ function placeOrder() {
 
 function runBamazon() {
     showTable();
+    // placeOrder();
 };
 
 runBamazon();
